@@ -20,10 +20,12 @@ void dfs(char op[],int sum,int preadd,int a[],int i){
 	sum += a[i];
 	dfs(op,sum,a[i],a,i+1);
 	sum -= a[i];   // »ØÍË 
+	
 	op[i] = '-';
 	sum -= a[i];
 	dfs(op,sum,-1*a[i],a,i+1);
 	sum += a[i];  // »ØÍË 
+	
 	op[i] = ' ';
 	sum -= preadd;
 	int tmp;

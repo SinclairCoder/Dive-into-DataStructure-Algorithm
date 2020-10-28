@@ -4,6 +4,7 @@
 using namespace std;
 
 vector<int> div(vector<int>&A,int b,int &r){
+    // r 为余数，C为商
 	r = 0;
 	vector<int> C;
 	// 注意逆序 
@@ -29,4 +30,4 @@ int main(){
 	cout << endl;
 	cout << r << endl;
 	return 0;
-} 
+

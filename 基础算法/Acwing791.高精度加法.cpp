@@ -3,7 +3,7 @@
 #include<string>
 using namespace std;
 
-vector<int> add(vector<int>A,vector<int>B){
+vector<int> add(vector<int>&A,vector<int>&B){
     vector<int> C;
     int t = 0;
     for(int i=0;i<A.size()||i<B.size();i++){

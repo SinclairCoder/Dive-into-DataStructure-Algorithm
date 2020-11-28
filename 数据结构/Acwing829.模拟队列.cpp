@@ -27,8 +27,5 @@ int main(){
 			cout << q[hh] << endl;
 		}
 	}
-	
-	
-	
 	return 0;
 } 

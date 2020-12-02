@@ -5,8 +5,9 @@ Some programs that use classic algorithms implementing by C++ such as greedy, ba
 
 - 不是职业程序设计竞赛选手，起步也晚，程序设计竞赛成绩平平，但我相信经过经年累月的坚持我的程序设计与编码能力也能达到还不错的水平。
 - 总想着一夕之间发生质的飞跃，能力突飞猛进，这是不可能的，我总是羡慕别人的成绩，同时呢也要肯定别人背后默默的付出。
-- 凡事贵在坚持，程序设计也是如此。
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;--- 2020天梯赛赛后有感
+- 凡事贵在坚持，程序设计也是如此。 
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;--- 2020天梯赛赛后有感
 
 
 

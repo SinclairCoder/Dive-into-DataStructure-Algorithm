@@ -7,7 +7,7 @@ Some programs that use classic algorithms implementing by C++ such as greedy, ba
 - 总想着一夕之间发生质的飞跃，能力突飞猛进，这是不可能的，我总是羡慕别人的成绩，同时呢也要肯定别人背后默默的付出。
 - 凡事贵在坚持，程序设计也是如此。 
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;--- 2020天梯赛赛后有感
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;--- 2020天梯赛赛后有感
 
 
 
